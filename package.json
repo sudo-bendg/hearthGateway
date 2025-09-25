@@ -1,0 +1,23 @@
+{
+  "name": "hearthgateway",
+  "version": "0.0.1",
+  "description": "Gateway for hearth api ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudo-bendg/hearthGateway.git"
+  },
+  "author": "Benjamin Godfrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudo-bendg/hearthGateway/issues"
+  },
+  "homepage": "https://github.com/sudo-bendg/hearthGateway#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
