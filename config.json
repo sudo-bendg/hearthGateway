@@ -1,1 +1,7 @@
-{}
+{
+    "services": {
+        "timeService": {
+            "url": "http://localhost:3002"
+        }
+    }
+}
